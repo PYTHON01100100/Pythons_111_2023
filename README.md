@@ -22,4 +22,8 @@
 #  CS50x 2024 - Lecture 6 - Python : https://youtu.be/EHi0RDZ31VA
 # Python tutorial : https://youtube.com/playlist?list=PLb6ZzJ93PVwpRVdX9yg8tQ1SMC4DSECjz&feature=shared
 # Python 102 : https://youtube.com/playlist?list=PL1A88BA22541704A8&feature=shared
-#  : 
+# Python Arabia : https://youtube.com/playlist?list=PLXqhO5lRtxJX4xtcE0amSGJuLJQbZV3qa&feature=shared
+#  Data Analysis and Visualization : https://youtube.com/playlist?list=PLKbdLIqXa5u1F74Ci-zFx8EomyxGSGTJ9&feature=shared
+# Mastering Python : https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&feature=shared
+# Mohammed Fadhil : https://youtube.com/playlist?list=PLAlLx-t8NswPZlLIq026uc9dOopHnNCzH&feature=shared
+# Python Oriented-Object Programming  : https://youtube.com/playlist?list=PLGmkOBY-mRWklZzSwSEzqlwJgrDnSxLIj&feature=shared
