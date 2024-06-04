@@ -17,6 +17,7 @@
 # Django Basics : https://youtube.com/playlist?list=PLTjpmsGYzQq7-rmF_QLFblZ_E3gN6wmyU&feature=shared
 #  Tkinter 
 #  Elsafy Hegazy : https://youtube.com/playlist?list=PLdZYzC8fohEJBXcDCBoDGyo8paxECbATK&feature=shared 
+# CodeRK  : https://youtube.com/playlist?list=PLSiLeKadTQ7nLJxpQo1-944miQKlheu-v&feature=shared
 # OOP  
 # Mahmoud Ahmed  : [https://youtube.com/playlist?list=PL3xG1ZdWPQtDarox4P7DamRDJeGPLMVAs&feature=shared](https://youtube.com/playlist?list=PLtGOJcWqvbqePpE7IWDRTDXo_jjGvJsRA&feature=shared)
 #  CS50x 2024 - Lecture 6 - Python : https://youtu.be/EHi0RDZ31VA
@@ -27,3 +28,6 @@
 # Mastering Python : https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&feature=shared
 # Mohammed Fadhil : https://youtube.com/playlist?list=PLAlLx-t8NswPZlLIq026uc9dOopHnNCzH&feature=shared
 # Python Oriented-Object Programming  : https://youtube.com/playlist?list=PLGmkOBY-mRWklZzSwSEzqlwJgrDnSxLIj&feature=shared
+# thread : https://youtu.be/9MMADIqUwNQ?list=PL6xXfB3d8PIAGz5SNwtsfsA_qeIhCoMWZ
+# python projects : https://youtube.com/playlist?list=PLSiLeKadTQ7mQI_IfHDktJwsd-jkun9x1&feature=shared
+#  : 
