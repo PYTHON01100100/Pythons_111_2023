@@ -30,4 +30,4 @@
 # Python Oriented-Object Programming  : https://youtube.com/playlist?list=PLGmkOBY-mRWklZzSwSEzqlwJgrDnSxLIj&feature=shared
 # thread : https://youtu.be/9MMADIqUwNQ?list=PL6xXfB3d8PIAGz5SNwtsfsA_qeIhCoMWZ
 # python projects : https://youtube.com/playlist?list=PLSiLeKadTQ7mQI_IfHDktJwsd-jkun9x1&feature=shared
-#  : 
+# Korsat X Parmaga : https://youtube.com/playlist?list=PLxbVBWjVdAEjKBA15q8QPRyflCk-hmd_f&feature=shared 
