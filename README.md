@@ -1,3 +1,4 @@
+# MIT 6.100L Introduction to CS and Programming using Python, Fall 2022 : https://youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&feature=shared
 
 # Codezilla  : https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ
 # lib : https://youtube.com/playlist?list=PLAlLx-t8NswMmn_fMxu6QwiaHhcHSHEvk&feature=shared
